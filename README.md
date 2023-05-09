@@ -1,1 +1,1 @@
-# corel-draw & InDesign 
+# corel-draw 
